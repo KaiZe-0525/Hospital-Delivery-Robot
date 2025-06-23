@@ -1,7 +1,7 @@
 # Hospital-Delivery-Robot
 Hospital Delivery Robot for Medicine and Samples
 
-# Author
+## Author
 1. `Ho Xiang (A181576)`
 2. `Tan Kai Ze (A202383)`
 
