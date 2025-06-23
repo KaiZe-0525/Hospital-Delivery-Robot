@@ -2,8 +2,8 @@
 Hospital Delivery Robot for Medicine and Samples
 
 # Author
-Ho Xiang (A181576)
-Tan Kai Ze (A202383)
+1. `Ho Xiang (A181576)`
+2. `Tan Kai Ze (A202383)`
 
 ## Instructions
 **LAUNCH HOSPITAL WORLD IN GAZEBO**
