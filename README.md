@@ -10,7 +10,7 @@ Hospital Delivery Robot for Medicine and Samples
 `roslaunch aws_robomaker_hospital_world hospital.launch`
 
 **RUN SLAM AND RVIZ**\
-`roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=(.yaml file path)"`
+`roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=(.yaml file path)`
   
 **INITIATE MULITPOINT NAVIGATION**\
 `rosrun multipoint_nav multi_point_nav.py`
