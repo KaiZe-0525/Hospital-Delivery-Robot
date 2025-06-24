@@ -1,0 +1,2 @@
+aws-robomaker-hospital-world:multipoint_nav
+-DCATKIN_DEVEL_PREFIX=/home/arckaiv/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/arckaiv/Desktop/catkin_ws/install -G Unix Makefiles

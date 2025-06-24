@@ -1,0 +1,8 @@
+prefix=/home/arckaiv/Desktop/catkin_ws/devel
+
+Name: multipoint_nav
+Description: Description of multipoint_nav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
